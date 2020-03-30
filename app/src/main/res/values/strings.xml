@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Preco Justo</string>
+    <string name="nome_produto">"Nome do Produto  "</string>
+    <string name="nome_produto_hint">Digite o nome do produto</string>
+    <string name="valor">Valor</string>
+    <string name="valor_hint">Digite o valor do produto</string>
+    <string name="qntd_parcelas">QNTD. Parcelas</string>
+    <string name="qntd_parcelas_hint">QNTD. Parcelas</string>
+    <string name="juros">Juros(%)</string>
+    <string name="juros_hint">0</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar_dados">Limpar Dados</string>
+    <string name="produto">Produto</string>
+    <string name="valorInicial">"Valor Inicial  "</string>
+    <string name="valorParcela">"Valor de cada parcela  "</string>
+    <string name="valorTotal">"Valor total  "</string>
+    <string name="valorJuros">"Valor de Juros  "</string>
+    <string name="moeda">R$</string>
+
+
+</resources>
